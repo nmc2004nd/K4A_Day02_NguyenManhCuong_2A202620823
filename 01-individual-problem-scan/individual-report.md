@@ -53,7 +53,7 @@
 
 ## Phase 2 — Top 3 Problem Cards
 
-### 2.1. Chọn top 3 (kèm 1 card bonus)
+### 2.1. Chọn top 3
 
 Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottleneck ở 1 bước, impact đo được. Loại bài quá rộng.
 
@@ -62,7 +62,7 @@ Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottlenec
 | 1         | Báo cáo tiến độ tuần gửi GVHD               | Workflow rõ 7 bước, lặp hằng tuần, có baseline 68'/tuần, bottleneck tập trung ở 1 bước                       | "Báo cáo đủ tốt" đo bằng gì ngoài thời gian (GVHD hỏi lại ít hơn?) |
 | 2         | Đọc & tóm tắt paper cho Related Work        | Pain lớn (~10–13h/kỳ), AI có thể hỗ trợ rõ ở bước tóm tắt, có non-AI alternative                             | Chất lượng "hiểu đúng paper" khó đo, dễ hallucination              |
 | 3         | Tổng hợp kết quả thí nghiệm từ log/notebook | Workflow tuyến tính, có số đo, dễ vẽ before/after                                                            | Định dạng log khác nhau giữa các lần chạy, parse không đồng nhất   |
-| 4 (bonus) | Hẹn lịch & sắp xếp họp với GVHD             | Case hay: **Rule đã đủ cho phần chính**, AI chỉ hỗ trợ phần rìa (agenda). Rất tốt để bàn Rule/Workflow/Agent | Khó đo "chất lượng agenda"                                         |
+| 4  | Hẹn lịch & sắp xếp họp với GVHD             | AI chỉ hỗ trợ phần rìa (agenda). Rất tốt để bàn Rule/Workflow/Agent | Khó đo "chất lượng agenda"                                         |
 
 > **Ghi chú:** Card #4 không nhằm thay Card #1, mà để chuẩn bị cho phần **Rule / Workflow / Agent** của nhóm — đây là ví dụ rõ nhất cho việc **không phải pain nào cũng cần AI**.
 
